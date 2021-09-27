@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(216, 250, 239);
+}
+/* #profile {
+  background-color: rgb(216, 250, 239);
+} */
+
+section {
+  padding-top: 4rem;
+}
+
+footer {
+  background-color: darkslategray;
+}
+/* #projects {
+  background-color: rgb(216, 250, 239);
+} */
